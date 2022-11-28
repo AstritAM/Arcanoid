@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>D:/Программирование под .NET/Arcanoid — копия/Arcanoid/Content/arcan.png</File>
+    <File>D:/Программирование под .NET/Arcanoid — копия/Arcanoid/Content/arcanoid11.png</File>
+    <File>D:/Программирование под .NET/Arcanoid — копия/Arcanoid/Content/ball.png</File>
+    <File>D:/Программирование под .NET/Arcanoid — копия/Arcanoid/Content/ball2.png</File>
+    <File>D:/Программирование под .NET/Arcanoid — копия/Arcanoid/Content/ball3.png</File>
+    <File>D:/Программирование под .NET/Arcanoid — копия/Arcanoid/Content/bric3.png</File>
+    <File>D:/Программирование под .NET/Arcanoid — копия/Arcanoid/Content/brick.png</File>
+    <File>D:/Программирование под .NET/Arcanoid — копия/Arcanoid/Content/brick12.png</File>
+    <File>D:/Программирование под .NET/Arcanoid — копия/Arcanoid/Content/butt.png</File>
+    <File>D:/Программирование под .NET/Arcanoid — копия/Arcanoid/Content/Button.spritefont</File>
+    <File>D:/Программирование под .NET/Arcanoid — копия/Arcanoid/Content/du8Oxcyub0o-removebg-preview.png</File>
+    <File>D:/Программирование под .NET/Arcanoid — копия/Arcanoid/Content/platform.png</File>
+    <File>D:/Программирование под .NET/Arcanoid — копия/Arcanoid/Content/platform20.png</File>
+    <File>D:/Программирование под .NET/Arcanoid — копия/Arcanoid/Content/Score.spritefont</File>
+    <File>D:/Программирование под .NET/Arcanoid — копия/Arcanoid/Content/Title.spritefont</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>

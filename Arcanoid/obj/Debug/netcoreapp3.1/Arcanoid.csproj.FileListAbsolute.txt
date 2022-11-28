@@ -1,0 +1,102 @@
+D:\Программирование под .NET\Arcanoid\Arcanoid\bin\Debug\netcoreapp3.1\Content\ball.xnb
+D:\Программирование под .NET\Arcanoid\Arcanoid\bin\Debug\netcoreapp3.1\Content\brik1.xnb
+D:\Программирование под .NET\Arcanoid\Arcanoid\bin\Debug\netcoreapp3.1\Content\platform.xnb
+D:\Программирование под .NET\Arcanoid\Arcanoid\bin\Debug\netcoreapp3.1\Arcanoid.exe
+D:\Программирование под .NET\Arcanoid\Arcanoid\bin\Debug\netcoreapp3.1\Arcanoid.deps.json
+D:\Программирование под .NET\Arcanoid\Arcanoid\bin\Debug\netcoreapp3.1\Arcanoid.runtimeconfig.json
+D:\Программирование под .NET\Arcanoid\Arcanoid\bin\Debug\netcoreapp3.1\Arcanoid.runtimeconfig.dev.json
+D:\Программирование под .NET\Arcanoid\Arcanoid\bin\Debug\netcoreapp3.1\Arcanoid.dll
+D:\Программирование под .NET\Arcanoid\Arcanoid\bin\Debug\netcoreapp3.1\Arcanoid.pdb
+D:\Программирование под .NET\Arcanoid\Arcanoid\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\Программирование под .NET\Arcanoid\Arcanoid\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\Программирование под .NET\Arcanoid\Arcanoid\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Программирование под .NET\Arcanoid\Arcanoid\bin\Debug\netcoreapp3.1\Microsoft.VisualBasic.dll
+D:\Программирование под .NET\Arcanoid\Arcanoid\bin\Debug\netcoreapp3.1\MonoGame.Framework.dll
+D:\Программирование под .NET\Arcanoid\Arcanoid\bin\Debug\netcoreapp3.1\SharpDX.dll
+D:\Программирование под .NET\Arcanoid\Arcanoid\bin\Debug\netcoreapp3.1\SharpDX.Direct2D1.dll
+D:\Программирование под .NET\Arcanoid\Arcanoid\bin\Debug\netcoreapp3.1\SharpDX.Direct3D11.dll
+D:\Программирование под .NET\Arcanoid\Arcanoid\bin\Debug\netcoreapp3.1\SharpDX.Direct3D9.dll
+D:\Программирование под .NET\Arcanoid\Arcanoid\bin\Debug\netcoreapp3.1\SharpDX.DXGI.dll
+D:\Программирование под .NET\Arcanoid\Arcanoid\bin\Debug\netcoreapp3.1\SharpDX.Mathematics.dll
+D:\Программирование под .NET\Arcanoid\Arcanoid\bin\Debug\netcoreapp3.1\SharpDX.MediaFoundation.dll
+D:\Программирование под .NET\Arcanoid\Arcanoid\bin\Debug\netcoreapp3.1\SharpDX.XAudio2.dll
+D:\Программирование под .NET\Arcanoid\Arcanoid\bin\Debug\netcoreapp3.1\SharpDX.XInput.dll
+D:\Программирование под .NET\Arcanoid\Arcanoid\bin\Debug\netcoreapp3.1\runtimes\debian-x64\native\libuv.so
+D:\Программирование под .NET\Arcanoid\Arcanoid\bin\Debug\netcoreapp3.1\runtimes\fedora-x64\native\libuv.so
+D:\Программирование под .NET\Arcanoid\Arcanoid\bin\Debug\netcoreapp3.1\runtimes\opensuse-x64\native\libuv.so
+D:\Программирование под .NET\Arcanoid\Arcanoid\bin\Debug\netcoreapp3.1\runtimes\osx\native\libuv.dylib
+D:\Программирование под .NET\Arcanoid\Arcanoid\bin\Debug\netcoreapp3.1\runtimes\rhel-x64\native\libuv.so
+D:\Программирование под .NET\Arcanoid\Arcanoid\bin\Debug\netcoreapp3.1\runtimes\win7-arm\native\libuv.dll
+D:\Программирование под .NET\Arcanoid\Arcanoid\bin\Debug\netcoreapp3.1\runtimes\win7-x64\native\libuv.dll
+D:\Программирование под .NET\Arcanoid\Arcanoid\bin\Debug\netcoreapp3.1\runtimes\win7-x86\native\libuv.dll
+D:\Программирование под .NET\Arcanoid\Arcanoid\obj\Debug\netcoreapp3.1\Arcanoid.csprojAssemblyReference.cache
+D:\Программирование под .NET\Arcanoid\Arcanoid\obj\Debug\netcoreapp3.1\Arcanoid.AssemblyInfoInputs.cache
+D:\Программирование под .NET\Arcanoid\Arcanoid\obj\Debug\netcoreapp3.1\Arcanoid.AssemblyInfo.cs
+D:\Программирование под .NET\Arcanoid\Arcanoid\obj\Debug\netcoreapp3.1\Arcanoid.csproj.CoreCompileInputs.cache
+D:\Программирование под .NET\Arcanoid\Arcanoid\obj\Debug\netcoreapp3.1\Arcanoid.csproj.CopyComplete
+D:\Программирование под .NET\Arcanoid\Arcanoid\obj\Debug\netcoreapp3.1\Arcanoid.dll
+D:\Программирование под .NET\Arcanoid\Arcanoid\obj\Debug\netcoreapp3.1\Arcanoid.pdb
+D:\Программирование под .NET\Arcanoid\Arcanoid\obj\Debug\netcoreapp3.1\Arcanoid.genruntimeconfig.cache
+D:\Программирование под .NET\Arcanoid\Arcanoid\bin\Debug\netcoreapp3.1\Content\ball2.xnb
+D:\Программирование под .NET\Arcanoid\Arcanoid\bin\Debug\netcoreapp3.1\Content\ball3.xnb
+D:\Программирование под .NET\Arcanoid\Arcanoid\bin\Debug\netcoreapp3.1\Content\bric3.xnb
+D:\Программирование под .NET\Arcanoid\Arcanoid\bin\Debug\netcoreapp3.1\Content\ds.xnb
+D:\Программирование под .NET\Arcanoid\Arcanoid\bin\Debug\netcoreapp3.1\Content\brick12.xnb
+D:\Программирование под .NET\Arcanoid\Arcanoid\bin\Debug\netcoreapp3.1\Content\Score.xnb
+D:\Программирование под .NET\Arcanoid\Arcanoid\bin\Debug\netcoreapp3.1\Content\du8Oxcyub0o-removebg-preview.xnb
+D:\Программирование под .NET\Arcanoid\Arcanoid\bin\Debug\netcoreapp3.1\Content\butt.xnb
+D:\Программирование под .NET\Arcanoid\Arcanoid\bin\Debug\netcoreapp3.1\Content\platform20.xnb
+D:\Программирование под .NET\Arcanoid\Arcanoid\bin\Debug\netcoreapp3.1\Content\brick.xnb
+D:\Программирование под .NET\Arcanoid — копия\Arcanoid\obj\Debug\netcoreapp3.1\Arcanoid.AssemblyInfoInputs.cache
+D:\Программирование под .NET\Arcanoid — копия\Arcanoid\obj\Debug\netcoreapp3.1\Arcanoid.AssemblyInfo.cs
+D:\Программирование под .NET\Arcanoid — копия\Arcanoid\obj\Debug\netcoreapp3.1\Arcanoid.csproj.CoreCompileInputs.cache
+D:\Программирование под .NET\Arcanoid — копия\Arcanoid\obj\Debug\netcoreapp3.1\Arcanoid.dll
+D:\Программирование под .NET\Arcanoid — копия\Arcanoid\obj\Debug\netcoreapp3.1\Arcanoid.pdb
+D:\Программирование под .NET\Arcanoid — копия\Arcanoid\bin\Debug\netcoreapp3.1\Content\brik1.xnb
+D:\Программирование под .NET\Arcanoid — копия\Arcanoid\bin\Debug\netcoreapp3.1\Content\ds.xnb
+D:\Программирование под .NET\Arcanoid — копия\Arcanoid\bin\Debug\netcoreapp3.1\Content\ball.xnb
+D:\Программирование под .NET\Arcanoid — копия\Arcanoid\bin\Debug\netcoreapp3.1\Content\ball2.xnb
+D:\Программирование под .NET\Arcanoid — копия\Arcanoid\bin\Debug\netcoreapp3.1\Content\ball3.xnb
+D:\Программирование под .NET\Arcanoid — копия\Arcanoid\bin\Debug\netcoreapp3.1\Content\bric3.xnb
+D:\Программирование под .NET\Arcanoid — копия\Arcanoid\bin\Debug\netcoreapp3.1\Content\brick.xnb
+D:\Программирование под .NET\Arcanoid — копия\Arcanoid\bin\Debug\netcoreapp3.1\Content\brick12.xnb
+D:\Программирование под .NET\Arcanoid — копия\Arcanoid\bin\Debug\netcoreapp3.1\Content\butt.xnb
+D:\Программирование под .NET\Arcanoid — копия\Arcanoid\bin\Debug\netcoreapp3.1\Content\du8Oxcyub0o-removebg-preview.xnb
+D:\Программирование под .NET\Arcanoid — копия\Arcanoid\bin\Debug\netcoreapp3.1\Content\platform.xnb
+D:\Программирование под .NET\Arcanoid — копия\Arcanoid\bin\Debug\netcoreapp3.1\Content\platform20.xnb
+D:\Программирование под .NET\Arcanoid — копия\Arcanoid\bin\Debug\netcoreapp3.1\Content\Score.xnb
+D:\Программирование под .NET\Arcanoid — копия\Arcanoid\bin\Debug\netcoreapp3.1\Arcanoid.exe
+D:\Программирование под .NET\Arcanoid — копия\Arcanoid\bin\Debug\netcoreapp3.1\Arcanoid.deps.json
+D:\Программирование под .NET\Arcanoid — копия\Arcanoid\bin\Debug\netcoreapp3.1\Arcanoid.runtimeconfig.json
+D:\Программирование под .NET\Arcanoid — копия\Arcanoid\bin\Debug\netcoreapp3.1\Arcanoid.runtimeconfig.dev.json
+D:\Программирование под .NET\Arcanoid — копия\Arcanoid\bin\Debug\netcoreapp3.1\Arcanoid.dll
+D:\Программирование под .NET\Arcanoid — копия\Arcanoid\bin\Debug\netcoreapp3.1\Arcanoid.pdb
+D:\Программирование под .NET\Arcanoid — копия\Arcanoid\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\Программирование под .NET\Arcanoid — копия\Arcanoid\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\Программирование под .NET\Arcanoid — копия\Arcanoid\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Программирование под .NET\Arcanoid — копия\Arcanoid\bin\Debug\netcoreapp3.1\Microsoft.VisualBasic.dll
+D:\Программирование под .NET\Arcanoid — копия\Arcanoid\bin\Debug\netcoreapp3.1\MonoGame.Framework.dll
+D:\Программирование под .NET\Arcanoid — копия\Arcanoid\bin\Debug\netcoreapp3.1\SharpDX.dll
+D:\Программирование под .NET\Arcanoid — копия\Arcanoid\bin\Debug\netcoreapp3.1\SharpDX.Direct2D1.dll
+D:\Программирование под .NET\Arcanoid — копия\Arcanoid\bin\Debug\netcoreapp3.1\SharpDX.Direct3D11.dll
+D:\Программирование под .NET\Arcanoid — копия\Arcanoid\bin\Debug\netcoreapp3.1\SharpDX.Direct3D9.dll
+D:\Программирование под .NET\Arcanoid — копия\Arcanoid\bin\Debug\netcoreapp3.1\SharpDX.DXGI.dll
+D:\Программирование под .NET\Arcanoid — копия\Arcanoid\bin\Debug\netcoreapp3.1\SharpDX.Mathematics.dll
+D:\Программирование под .NET\Arcanoid — копия\Arcanoid\bin\Debug\netcoreapp3.1\SharpDX.MediaFoundation.dll
+D:\Программирование под .NET\Arcanoid — копия\Arcanoid\bin\Debug\netcoreapp3.1\SharpDX.XAudio2.dll
+D:\Программирование под .NET\Arcanoid — копия\Arcanoid\bin\Debug\netcoreapp3.1\SharpDX.XInput.dll
+D:\Программирование под .NET\Arcanoid — копия\Arcanoid\bin\Debug\netcoreapp3.1\runtimes\debian-x64\native\libuv.so
+D:\Программирование под .NET\Arcanoid — копия\Arcanoid\bin\Debug\netcoreapp3.1\runtimes\fedora-x64\native\libuv.so
+D:\Программирование под .NET\Arcanoid — копия\Arcanoid\bin\Debug\netcoreapp3.1\runtimes\opensuse-x64\native\libuv.so
+D:\Программирование под .NET\Arcanoid — копия\Arcanoid\bin\Debug\netcoreapp3.1\runtimes\osx\native\libuv.dylib
+D:\Программирование под .NET\Arcanoid — копия\Arcanoid\bin\Debug\netcoreapp3.1\runtimes\rhel-x64\native\libuv.so
+D:\Программирование под .NET\Arcanoid — копия\Arcanoid\bin\Debug\netcoreapp3.1\runtimes\win7-arm\native\libuv.dll
+D:\Программирование под .NET\Arcanoid — копия\Arcanoid\bin\Debug\netcoreapp3.1\runtimes\win7-x64\native\libuv.dll
+D:\Программирование под .NET\Arcanoid — копия\Arcanoid\bin\Debug\netcoreapp3.1\runtimes\win7-x86\native\libuv.dll
+D:\Программирование под .NET\Arcanoid — копия\Arcanoid\obj\Debug\netcoreapp3.1\Arcanoid.csproj.CopyComplete
+D:\Программирование под .NET\Arcanoid — копия\Arcanoid\obj\Debug\netcoreapp3.1\Arcanoid.genruntimeconfig.cache
+D:\Программирование под .NET\Arcanoid — копия\Arcanoid\bin\Debug\netcoreapp3.1\Content\Title.xnb
+D:\Программирование под .NET\Arcanoid — копия\Arcanoid\bin\Debug\netcoreapp3.1\Content\Button.xnb
+D:\Программирование под .NET\Arcanoid — копия\Arcanoid\bin\Debug\netcoreapp3.1\Content\arcan.xnb
+D:\Программирование под .NET\Arcanoid — копия\Arcanoid\bin\Debug\netcoreapp3.1\Content\arcanoid11.xnb
+D:\Программирование под .NET\Arcanoid — копия\Arcanoid\obj\Debug\netcoreapp3.1\Arcanoid.csprojAssemblyReference.cache
